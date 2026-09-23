@@ -51,7 +51,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [roadmap](APPLICATION.md#roadmap)
 
-- [ ] Roadmap and context documented <!-- checklist:roadmap --> (Issue: [#27](https://github.com/davidgs/sandbox-application/issues/27))
+- [ ] Roadmap and context documented <!-- checklist:roadmap --> (PR: [#44](https://github.com/davidgs/sandbox-application/pull/44))
 
 ### [roadmap_context](APPLICATION.md#roadmap_context)
 

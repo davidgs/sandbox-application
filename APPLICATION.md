@@ -52,7 +52,7 @@ New Sandbox Application
 
 ## project_description
 
-_100–300 word description of what the project does, why it's needed, and what gaps it fills in the cloud native ecosystem._
+This project is a new application to the CNCF Sandbox for this template repo. It's never going to be submitted, but I'm testing it out.
 
 ## not_reference_architecture
 

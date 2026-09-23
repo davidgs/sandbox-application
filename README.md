@@ -12,8 +12,8 @@ This repository helps you prepare a [CNCF Sandbox application](https://github.co
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **3 / 33** items complete (9%)  
-> `██░░░░░░░░░░░░░░░░░░` 9%
+> **Application progress:** **4 / 33** items complete (12%)  
+> `██░░░░░░░░░░░░░░░░░░` 12%
 <!-- checklist-progress:end -->
 
 ## Application checklist
@@ -51,7 +51,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [roadmap](APPLICATION.md#roadmap)
 
-- [ ] Roadmap and context documented <!-- checklist:roadmap --> (PR: [#44](https://github.com/davidgs/sandbox-application/pull/44))
+- [x] Roadmap and context documented <!-- checklist:roadmap --> (PR: [#44](https://github.com/davidgs/sandbox-application/pull/44))
 
 ### [roadmap_context](APPLICATION.md#roadmap_context)
 

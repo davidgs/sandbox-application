@@ -80,7 +80,7 @@ Document URLs for this application:
 - `additional_repos` — other in-scope repos, or leave blank
 <!-- field-guide:end -->
 
-- [x] Org and repository URLs documented <!-- checklist:org-and-repo-urls --> (Issue: [#30](https://github.com/davidgs/sandbox-application/issues/30))
+- [x] Org and repository URLs documented <!-- checklist:org-and-repo-urls --> (PR: [#39](https://github.com/davidgs/sandbox-application/pull/39))
 
 N/A
 

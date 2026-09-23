@@ -29,7 +29,7 @@ Based on this form, a Contribution Agreement is sent to your contacts. **It must
 When finished, add review notes or links under **Your answer** below and open a PR with `Closes` and the issue number on the checklist line.
 <!-- field-guide:end -->
 
-- [ ] Reviewed all prerequisite documentation <!-- checklist:read-prerequisites --> (Issue: [#33](https://github.com/davidgs/sandbox-application/issues/33))
+- [x] Reviewed all prerequisite documentation <!-- checklist:read-prerequisites --> (PR: [#35](https://github.com/davidgs/sandbox-application/pull/35))
 
 **Your answer:**
 

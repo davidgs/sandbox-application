@@ -12,8 +12,8 @@ This repository helps you prepare a [CNCF Sandbox application](https://github.co
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **0 / 33** items complete (0%)  
-> `░░░░░░░░░░░░░░░░░░░░` 0%
+> **Application progress:** **1 / 33** items complete (3%)  
+> `█░░░░░░░░░░░░░░░░░░░` 3%
 <!-- checklist-progress:end -->
 
 ## Application checklist
@@ -23,7 +23,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 <!-- application-dashboard:start -->
 ### [read_prerequisites](APPLICATION.md#read_prerequisites)
 
-- [ ] Reviewed all prerequisite documentation <!-- checklist:read-prerequisites --> (Issue: [#33](https://github.com/davidgs/sandbox-application/issues/33))
+- [x] Reviewed all prerequisite documentation <!-- checklist:read-prerequisites --> (PR: [#35](https://github.com/davidgs/sandbox-application/pull/35))
 
 ### [project_summary](APPLICATION.md#project_summary)
 

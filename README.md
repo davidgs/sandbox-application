@@ -37,7 +37,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [org_repo_url](APPLICATION.md#org_repo_url)
 
-- [ ] Org and repository URLs documented <!-- checklist:org-and-repo-urls --> (Issue: [#30](https://github.com/davidgs/sandbox-application/issues/30))
+- [x] Org and repository URLs documented <!-- checklist:org-and-repo-urls --> (PR: [#39](https://github.com/davidgs/sandbox-application/pull/39))
 
 ### [project_repo_url](APPLICATION.md#project_repo_url)
 

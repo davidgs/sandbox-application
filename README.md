@@ -1,10 +1,9 @@
-# CNCF Sandbox Application
-
-> **Project name:** _Replace with your project name_
+# Sandbox Application — CNCF Sandbox Application
+> **Project name:** Sandbox Application
 >
 > **Official CNCF application issue:** _Filled in automatically when you run `./scripts/generate-submission.sh --create-issue`_
 >
-> **Checklist issues:** Run `./scripts/bootstrap-issues.sh` after creating your repo from this template.
+> **Checklist issues:** Bootstrapped
 
 This repository helps you prepare a [CNCF Sandbox application](https://github.com/cncf/sandbox/issues/new?assignees=&labels=New&projects=&template=application.yml&title=%5BSandbox%5D+%3CProject+Name%3E).
 
@@ -24,21 +23,21 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 <!-- application-dashboard:start -->
 ### [read_prerequisites](APPLICATION.md#read_prerequisites)
 
-- [ ] Reviewed all prerequisite documentation <!-- checklist:read-prerequisites --> (Issue: #ISSUE_READ_PREREQUISITES)
+- [ ] Reviewed all prerequisite documentation <!-- checklist:read-prerequisites --> (Issue: [#33](https://github.com/davidgs/sandbox-application/issues/33))
 
 ### [project_summary](APPLICATION.md#project_summary)
 
-- [ ] Project summary and description drafted <!-- checklist:project-summary --> (Issue: #ISSUE_PROJECT_SUMMARY)
+- [ ] Project summary and description drafted <!-- checklist:project-summary --> (Issue: [#32](https://github.com/davidgs/sandbox-application/issues/32))
 
 ### [project_description](APPLICATION.md#project_description)
 
 ### [not_reference_architecture](APPLICATION.md#not_reference_architecture)
 
-- [ ] This is a reusable open source project designed for broad adoption, not a reference architecture, reference implementation, or demonstration of patterns <!-- checklist:reusable-project --> (Issue: #ISSUE_REUSABLE_PROJECT)
+- [ ] This is a reusable open source project designed for broad adoption, not a reference architecture, reference implementation, or demonstration of patterns <!-- checklist:reusable-project --> (Issue: [#31](https://github.com/davidgs/sandbox-application/issues/31))
 
 ### [org_repo_url](APPLICATION.md#org_repo_url)
 
-- [ ] Org and repository URLs documented <!-- checklist:org-and-repo-urls --> (Issue: #ISSUE_ORG_AND_REPO_URLS)
+- [ ] Org and repository URLs documented <!-- checklist:org-and-repo-urls --> (Issue: [#30](https://github.com/davidgs/sandbox-application/issues/30))
 
 ### [project_repo_url](APPLICATION.md#project_repo_url)
 
@@ -46,125 +45,125 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [parent_separation_vote](APPLICATION.md#parent_separation_vote)
 
-- [ ] Parent project separation vote linked (or N/A documented) <!-- checklist:parent-separation-vote --> (Issue: #ISSUE_PARENT_SEPARATION_VOTE)
+- [ ] Parent project separation vote linked (or N/A documented) <!-- checklist:parent-separation-vote --> (Issue: [#29](https://github.com/davidgs/sandbox-application/issues/29))
 
 ### [website_url](APPLICATION.md#website_url)
 
-- [ ] Website URL documented <!-- checklist:website-url --> (Issue: #ISSUE_WEBSITE_URL)
+- [ ] Website URL documented <!-- checklist:website-url --> (Issue: [#28](https://github.com/davidgs/sandbox-application/issues/28))
 
 ### [roadmap](APPLICATION.md#roadmap)
 
-- [ ] Roadmap and context documented <!-- checklist:roadmap --> (Issue: #ISSUE_ROADMAP)
+- [ ] Roadmap and context documented <!-- checklist:roadmap --> (Issue: [#27](https://github.com/davidgs/sandbox-application/issues/27))
 
 ### [roadmap_context](APPLICATION.md#roadmap_context)
 
 ### [contributing_guide](APPLICATION.md#contributing_guide)
 
-- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (Issue: #ISSUE_CONTRIBUTING_GUIDE)
+- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (Issue: [#26](https://github.com/davidgs/sandbox-application/issues/26))
 
 ### [code_of_conduct](APPLICATION.md#code_of_conduct)
 
-- [ ] Code of Conduct linked <!-- checklist:code-of-conduct --> (Issue: #ISSUE_CODE_OF_CONDUCT)
+- [ ] Code of Conduct linked <!-- checklist:code-of-conduct --> (Issue: [#25](https://github.com/davidgs/sandbox-application/issues/25))
 
 ### [adopters](APPLICATION.md#adopters)
 
-- [ ] Adopters list linked or rationale documented <!-- checklist:adopters --> (Issue: #ISSUE_ADOPTERS)
+- [ ] Adopters list linked or rationale documented <!-- checklist:adopters --> (Issue: [#24](https://github.com/davidgs/sandbox-application/issues/24))
 
 ### [maintainers_file](APPLICATION.md#maintainers_file)
 
-- [ ] MAINTAINERS file created with required columns <!-- checklist:maintainers-file --> (Issue: #ISSUE_MAINTAINERS_FILE)
+- [ ] MAINTAINERS file created with required columns <!-- checklist:maintainers-file --> (Issue: [#23](https://github.com/davidgs/sandbox-application/issues/23))
 
 ### [security_policy](APPLICATION.md#security_policy)
 
-- [ ] Security policy linked <!-- checklist:security-policy --> (Issue: #ISSUE_SECURITY_POLICY)
+- [ ] Security policy linked <!-- checklist:security-policy --> (Issue: [#22](https://github.com/davidgs/sandbox-application/issues/22))
 
 ### [standard_or_spec](APPLICATION.md#standard_or_spec)
 
-- [ ] Standard/specification details documented <!-- checklist:standard-or-spec --> (Issue: #ISSUE_STANDARD_OR_SPEC)
+- [ ] Standard/specification details documented <!-- checklist:standard-or-spec --> (Issue: [#21](https://github.com/davidgs/sandbox-application/issues/21))
 
 ### [product_separation](APPLICATION.md#product_separation)
 
-- [ ] Business product/service separation documented <!-- checklist:product-separation --> (Issue: #ISSUE_PRODUCT_SEPARATION)
+- [ ] Business product/service separation documented <!-- checklist:product-separation --> (Issue: [#20](https://github.com/davidgs/sandbox-application/issues/20))
 
 ### [why_cncf](APPLICATION.md#why_cncf)
 
-- [ ] Why CNCF drafted <!-- checklist:why-cncf --> (Issue: #ISSUE_WHY_CNCF)
+- [ ] Why CNCF drafted <!-- checklist:why-cncf --> (Issue: [#19](https://github.com/davidgs/sandbox-application/issues/19))
 
 ### [landscape_benefit](APPLICATION.md#landscape_benefit)
 
-- [ ] Landscape benefit drafted <!-- checklist:landscape-benefit --> (Issue: #ISSUE_LANDSCAPE_BENEFIT)
+- [ ] Landscape benefit drafted <!-- checklist:landscape-benefit --> (Issue: [#18](https://github.com/davidgs/sandbox-application/issues/18))
 
 ### [cloud_native_fit](APPLICATION.md#cloud_native_fit)
 
-- [ ] Cloud native fit drafted <!-- checklist:cloud-native-fit --> (Issue: #ISSUE_CLOUD_NATIVE_FIT)
+- [ ] Cloud native fit drafted <!-- checklist:cloud-native-fit --> (Issue: [#17](https://github.com/davidgs/sandbox-application/issues/17))
 
 ### [cloud_native_integration](APPLICATION.md#cloud_native_integration)
 
-- [ ] Cloud native integration drafted <!-- checklist:cloud-native-integration --> (Issue: #ISSUE_CLOUD_NATIVE_INTEGRATION)
+- [ ] Cloud native integration drafted <!-- checklist:cloud-native-integration --> (Issue: [#16](https://github.com/davidgs/sandbox-application/issues/16))
 
 ### [cloud_native_overlap](APPLICATION.md#cloud_native_overlap)
 
-- [ ] Cloud native overlap drafted <!-- checklist:cloud-native-overlap --> (Issue: #ISSUE_CLOUD_NATIVE_OVERLAP)
+- [ ] Cloud native overlap drafted <!-- checklist:cloud-native-overlap --> (Issue: [#15](https://github.com/davidgs/sandbox-application/issues/15))
 
 ### [similar_projects](APPLICATION.md#similar_projects)
 
-- [ ] Similar projects documented <!-- checklist:similar-projects --> (Issue: #ISSUE_SIMILAR_PROJECTS)
+- [ ] Similar projects documented <!-- checklist:similar-projects --> (Issue: [#14](https://github.com/davidgs/sandbox-application/issues/14))
 
 ### [landscape](APPLICATION.md#landscape)
 
-- [ ] Landscape listing status documented <!-- checklist:landscape-listing --> (Issue: #ISSUE_LANDSCAPE_LISTING)
+- [ ] Landscape listing status documented <!-- checklist:landscape-listing --> (Issue: [#13](https://github.com/davidgs/sandbox-application/issues/13))
 
 ### [insights](APPLICATION.md#insights)
 
-- [ ] LFX Insights status documented <!-- checklist:lfx-insights --> (Issue: #ISSUE_LFX_INSIGHTS)
+- [ ] LFX Insights status documented <!-- checklist:lfx-insights --> (Issue: [#12](https://github.com/davidgs/sandbox-application/issues/12))
 
 ### [trademark_agreement](APPLICATION.md#trademark_agreement)
 
-- [ ] If the project is accepted, I agree to donate all project trademarks and accounts to the CNCF <!-- checklist:trademark-agreement --> (Issue: #ISSUE_TRADEMARK_AGREEMENT)
+- [ ] If the project is accepted, I agree to donate all project trademarks and accounts to the CNCF <!-- checklist:trademark-agreement --> (Issue: [#11](https://github.com/davidgs/sandbox-application/issues/11))
 
 ### [ip_policy_agreement](APPLICATION.md#ip_policy_agreement)
 
-- [ ] If the project is accepted, I agree the project will follow the CNCF IP Policy <!-- checklist:ip-policy-agreement --> (Issue: #ISSUE_IP_POLICY_AGREEMENT)
+- [ ] If the project is accepted, I agree the project will follow the CNCF IP Policy <!-- checklist:ip-policy-agreement --> (Issue: [#10](https://github.com/davidgs/sandbox-application/issues/10))
 
 ### [license](APPLICATION.md#license)
 
-- [ ] Apache 2.0 license compliance documented <!-- checklist:apache-2-license --> (Issue: #ISSUE_APACHE_2_LICENSE)
+- [ ] Apache 2.0 license compliance documented <!-- checklist:apache-2-license --> (Issue: [#9](https://github.com/davidgs/sandbox-application/issues/9))
 
 ### [license_exception](APPLICATION.md#license_exception)
 
-- [ ] License exception review completed <!-- checklist:license-exception --> (Issue: #ISSUE_LICENSE_EXCEPTION)
+- [ ] License exception review completed <!-- checklist:license-exception --> (Issue: [#8](https://github.com/davidgs/sandbox-application/issues/8))
 
 ### [dependency_licenses](APPLICATION.md#dependency_licenses)
 
-- [ ] Dependency license compliance verified <!-- checklist:dependency-licenses --> (Issue: #ISSUE_DEPENDENCY_LICENSES)
+- [ ] Dependency license compliance verified <!-- checklist:dependency-licenses --> (Issue: [#7](https://github.com/davidgs/sandbox-application/issues/7))
 
 ### [domain_technical_review](APPLICATION.md#domain_technical_review)
 
-- [ ] Domain Technical Review linked (if applicable) <!-- checklist:domain-technical-review --> (Issue: #ISSUE_DOMAIN_TECHNICAL_REVIEW)
+- [ ] Domain Technical Review linked (if applicable) <!-- checklist:domain-technical-review --> (Issue: [#6](https://github.com/davidgs/sandbox-application/issues/6))
 
 ### [repo_age_evidence](APPLICATION.md#repo_age_evidence)
 
-- [ ] Repository age and active development verified <!-- checklist:repo-age-and-activity --> (Issue: #ISSUE_REPO_AGE_AND_ACTIVITY)
+- [ ] Repository age and active development verified <!-- checklist:repo-age-and-activity --> (Issue: [#5](https://github.com/davidgs/sandbox-application/issues/5))
 
 ### [maintainer_diversity](APPLICATION.md#maintainer_diversity)
 
-- [ ] Maintainer organization diversity documented <!-- checklist:maintainer-diversity --> (Issue: #ISSUE_MAINTAINER_DIVERSITY)
+- [ ] Maintainer organization diversity documented <!-- checklist:maintainer-diversity --> (Issue: [#4](https://github.com/davidgs/sandbox-application/issues/4))
 
 ### [application_contact_emails](APPLICATION.md#application_contact_emails)
 
-- [ ] Application contact emails and signatory information completed <!-- checklist:contact-information --> (Issue: #ISSUE_CONTACT_INFORMATION)
+- [ ] Application contact emails and signatory information completed <!-- checklist:contact-information --> (Issue: [#3](https://github.com/davidgs/sandbox-application/issues/3))
 
 ### [signatory_information](APPLICATION.md#signatory_information)
 
 ### [cncf_contacts](APPLICATION.md#cncf_contacts)
 
-- [ ] CNCF contacts and additional information completed <!-- checklist:additional-information --> (Issue: #ISSUE_ADDITIONAL_INFORMATION)
+- [ ] CNCF contacts and additional information completed <!-- checklist:additional-information --> (Issue: [#2](https://github.com/davidgs/sandbox-application/issues/2))
 
 ### [additional_information](APPLICATION.md#additional_information)
 
 ### [final_review](APPLICATION.md#final_review)
 
-- [ ] Final review complete and application submitted to CNCF <!-- checklist:final-review --> (Issue: #ISSUE_FINAL_REVIEW)
+- [ ] Final review complete and application submitted to CNCF <!-- checklist:final-review --> (Issue: [#1](https://github.com/davidgs/sandbox-application/issues/1))
 <!-- application-dashboard:end -->
 
 ## Quick start

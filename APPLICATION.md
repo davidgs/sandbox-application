@@ -29,7 +29,7 @@ Based on this form, a Contribution Agreement is sent to your contacts. **It must
 When finished, add review notes or links under **Your answer** below and open a PR with `Closes` and the issue number on the checklist line.
 <!-- field-guide:end -->
 
-- [ ] Reviewed all prerequisite documentation <!-- checklist:read-prerequisites --> (Issue: #ISSUE_READ_PREREQUISITES)
+- [ ] Reviewed all prerequisite documentation <!-- checklist:read-prerequisites --> (Issue: [#33](https://github.com/davidgs/sandbox-application/issues/33))
 
 **Your answer:**
 
@@ -46,11 +46,9 @@ Draft the CNCF form fields in the sections below:
 Open one PR covering both fields; use `Closes` with the issue on the checklist line.
 <!-- field-guide:end -->
 
-- [ ] Project summary and description drafted <!-- checklist:project-summary --> (Issue: #ISSUE_PROJECT_SUMMARY)
+- [ ] Project summary and description drafted <!-- checklist:project-summary --> (Issue: [#32](https://github.com/davidgs/sandbox-application/issues/32))
 
-**Your answer:**
-
-_One-line summary of the project._
+New Sandbox Application
 
 ## project_description
 
@@ -66,7 +64,7 @@ If this is a reference architecture, apply via [CNCF Reference Architectures](ht
 Check the box below when confirmed.
 <!-- field-guide:end -->
 
-- [ ] This is a reusable open source project designed for broad adoption, not a reference architecture, reference implementation, or demonstration of patterns <!-- checklist:reusable-project --> (Issue: #ISSUE_REUSABLE_PROJECT)
+- [ ] This is a reusable open source project designed for broad adoption, not a reference architecture, reference implementation, or demonstration of patterns <!-- checklist:reusable-project --> (Issue: [#31](https://github.com/davidgs/sandbox-application/issues/31))
 
 **Your answer:** (check the box above; add notes below if needed)
 
@@ -82,15 +80,12 @@ Document URLs for this application:
 - `additional_repos` — other in-scope repos, or leave blank
 <!-- field-guide:end -->
 
-- [ ] Org and repository URLs documented <!-- checklist:org-and-repo-urls --> (Issue: #ISSUE_ORG_AND_REPO_URLS)
+- [ ] Org and repository URLs documented <!-- checklist:org-and-repo-urls --> (Issue: [#30](https://github.com/davidgs/sandbox-application/issues/30))
 
-**Your answer:**
-
-_Org repo URL, or N/A._
+N/A
 
 ## project_repo_url
-
-_Primary project repository URL._
+https://github.com/davidgs/sandbox-application
 
 ## additional_repos
 
@@ -102,7 +97,7 @@ _Additional repository URLs in scope, or leave blank._
 If separating from a parent project, link a **public issue** in the parent repo showing maintainer consensus to split. Otherwise document **N/A** in `parent_separation_vote`.
 <!-- field-guide:end -->
 
-- [ ] Parent project separation vote linked (or N/A documented) <!-- checklist:parent-separation-vote --> (Issue: #ISSUE_PARENT_SEPARATION_VOTE)
+- [ ] Parent project separation vote linked (or N/A documented) <!-- checklist:parent-separation-vote --> (Issue: [#29](https://github.com/davidgs/sandbox-application/issues/29))
 
 **Your answer:**
 
@@ -114,11 +109,9 @@ _If separating from a parent project, link to the public maintainer vote issue. 
 Provide the project website URL, or the primary repo URL if there is no dedicated site.
 <!-- field-guide:end -->
 
-- [ ] Website URL documented <!-- checklist:website-url --> (Issue: #ISSUE_WEBSITE_URL)
+- [ ] Website URL documented <!-- checklist:website-url --> (Issue: [#28](https://github.com/davidgs/sandbox-application/issues/28))
 
-**Your answer:**
-
-_Project website URL, or primary repo URL if no website._
+https://github.com/davidgs/sandbox-application
 
 ## roadmap
 
@@ -126,7 +119,7 @@ _Project website URL, or primary repo URL if no website._
 Provide a publicly accessible roadmap URL in `roadmap` and optional direction in `roadmap_context`.
 <!-- field-guide:end -->
 
-- [ ] Roadmap and context documented <!-- checklist:roadmap --> (Issue: #ISSUE_ROADMAP)
+- [ ] Roadmap and context documented <!-- checklist:roadmap --> (Issue: [#27](https://github.com/davidgs/sandbox-application/issues/27))
 
 **Your answer:**
 
@@ -142,7 +135,7 @@ _Optional details about roadmap direction._
 Link directly to the project's contributing guide (not a promise to add one later).
 <!-- field-guide:end -->
 
-- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (Issue: #ISSUE_CONTRIBUTING_GUIDE)
+- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (Issue: [#26](https://github.com/davidgs/sandbox-application/issues/26))
 
 **Your answer:**
 
@@ -154,7 +147,7 @@ _Direct link to the contributing guide._
 Link directly to the project's Code of Conduct.
 <!-- field-guide:end -->
 
-- [ ] Code of Conduct linked <!-- checklist:code-of-conduct --> (Issue: #ISSUE_CODE_OF_CONDUCT)
+- [ ] Code of Conduct linked <!-- checklist:code-of-conduct --> (Issue: [#25](https://github.com/davidgs/sandbox-application/issues/25))
 
 **Your answer:**
 
@@ -166,7 +159,7 @@ _Direct link to the Code of Conduct._
 Link to an adopters file or explain why one does not exist yet.
 <!-- field-guide:end -->
 
-- [ ] Adopters list linked or rationale documented <!-- checklist:adopters --> (Issue: #ISSUE_ADOPTERS)
+- [ ] Adopters list linked or rationale documented <!-- checklist:adopters --> (Issue: [#24](https://github.com/davidgs/sandbox-application/issues/24))
 
 **Your answer:**
 
@@ -187,7 +180,7 @@ Example:
 > Organization diversity is not required for Sandbox, but the TOC considers it. A Company/Organization column helps reviewers understand your contributor base.
 <!-- field-guide:end -->
 
-- [ ] MAINTAINERS file created with required columns <!-- checklist:maintainers-file --> (Issue: #ISSUE_MAINTAINERS_FILE)
+- [ ] MAINTAINERS file created with required columns <!-- checklist:maintainers-file --> (Issue: [#23](https://github.com/davidgs/sandbox-application/issues/23))
 
 **Your answer:**
 
@@ -199,7 +192,7 @@ _Direct GitHub `/blob/` link to MAINTAINERS.md with Name, GitHub ID, and Company
 Link to `SECURITY.md` or your security policy. See [CNCF security guidelines](https://contribute.cncf.io/maintainers/security/security-guidelines/#3-securitymd) and [templates](https://github.com/cncf/tag-security/tree/main/community/resources/project-resources/templates).
 <!-- field-guide:end -->
 
-- [ ] Security policy linked <!-- checklist:security-policy --> (Issue: #ISSUE_SECURITY_POLICY)
+- [ ] Security policy linked <!-- checklist:security-policy --> (Issue: [#22](https://github.com/davidgs/sandbox-application/issues/22))
 
 **Your answer:**
 
@@ -211,7 +204,7 @@ _Direct link to SECURITY.md or security policy._
 If the project is or includes a standard or specification, describe it. Otherwise write **N/A**.
 <!-- field-guide:end -->
 
-- [ ] Standard/specification details documented <!-- checklist:standard-or-spec --> (Issue: #ISSUE_STANDARD_OR_SPEC)
+- [ ] Standard/specification details documented <!-- checklist:standard-or-spec --> (Issue: [#21](https://github.com/davidgs/sandbox-application/issues/21))
 
 **Your answer:**
 
@@ -223,7 +216,7 @@ _If this project is or includes a standard or specification, provide details. Ot
 Explain separation from related commercial products or services, or state: "This project is unrelated to any product or service."
 <!-- field-guide:end -->
 
-- [ ] Business product/service separation documented <!-- checklist:product-separation --> (Issue: #ISSUE_PRODUCT_SEPARATION)
+- [ ] Business product/service separation documented <!-- checklist:product-separation --> (Issue: [#20](https://github.com/davidgs/sandbox-application/issues/20))
 
 **Your answer:**
 
@@ -235,7 +228,7 @@ _Explain separation from commercial products/services, or write: "This project i
 Why contribute the project to CNCF? What value does CNCF membership provide?
 <!-- field-guide:end -->
 
-- [ ] Why CNCF drafted <!-- checklist:why-cncf --> (Issue: #ISSUE_WHY_CNCF)
+- [ ] Why CNCF drafted <!-- checklist:why-cncf --> (Issue: [#19](https://github.com/davidgs/sandbox-application/issues/19))
 
 **Your answer:**
 
@@ -247,7 +240,7 @@ _Why contribute the project to CNCF? What value does CNCF membership provide?_
 How will adding this project benefit the Cloud Native Landscape?
 <!-- field-guide:end -->
 
-- [ ] Landscape benefit drafted <!-- checklist:landscape-benefit --> (Issue: #ISSUE_LANDSCAPE_BENEFIT)
+- [ ] Landscape benefit drafted <!-- checklist:landscape-benefit --> (Issue: [#18](https://github.com/davidgs/sandbox-application/issues/18))
 
 **Your answer:**
 
@@ -259,7 +252,7 @@ _How will adding this project benefit the Cloud Native Landscape?_
 Where does the project fit in the cloud native landscape?
 <!-- field-guide:end -->
 
-- [ ] Cloud native fit drafted <!-- checklist:cloud-native-fit --> (Issue: #ISSUE_CLOUD_NATIVE_FIT)
+- [ ] Cloud native fit drafted <!-- checklist:cloud-native-fit --> (Issue: [#17](https://github.com/davidgs/sandbox-application/issues/17))
 
 **Your answer:**
 
@@ -271,7 +264,7 @@ _Where does the project fit in the cloud native landscape?_
 Which CNCF projects does this complement or depend on?
 <!-- field-guide:end -->
 
-- [ ] Cloud native integration drafted <!-- checklist:cloud-native-integration --> (Issue: #ISSUE_CLOUD_NATIVE_INTEGRATION)
+- [ ] Cloud native integration drafted <!-- checklist:cloud-native-integration --> (Issue: [#16](https://github.com/davidgs/sandbox-application/issues/16))
 
 **Your answer:**
 
@@ -283,7 +276,7 @@ _What CNCF projects does this complement or depend on?_
 Which CNCF projects overlap, and how do you differentiate?
 <!-- field-guide:end -->
 
-- [ ] Cloud native overlap drafted <!-- checklist:cloud-native-overlap --> (Issue: #ISSUE_CLOUD_NATIVE_OVERLAP)
+- [ ] Cloud native overlap drafted <!-- checklist:cloud-native-overlap --> (Issue: [#15](https://github.com/davidgs/sandbox-application/issues/15))
 
 **Your answer:**
 
@@ -295,7 +288,7 @@ _What CNCF projects does this overlap with, and how?_
 List similar projects in CNCF or elsewhere, or write **N/A**.
 <!-- field-guide:end -->
 
-- [ ] Similar projects documented <!-- checklist:similar-projects --> (Issue: #ISSUE_SIMILAR_PROJECTS)
+- [ ] Similar projects documented <!-- checklist:similar-projects --> (Issue: [#14](https://github.com/davidgs/sandbox-application/issues/14))
 
 **Your answer:**
 
@@ -307,7 +300,7 @@ _Similar projects in CNCF or elsewhere. Write N/A if none._
 Are you listed on [landscape.cncf.io](https://landscape.cncf.io/)? Document status and link if applicable.
 <!-- field-guide:end -->
 
-- [ ] Landscape listing status documented <!-- checklist:landscape-listing --> (Issue: #ISSUE_LANDSCAPE_LISTING)
+- [ ] Landscape listing status documented <!-- checklist:landscape-listing --> (Issue: [#13](https://github.com/davidgs/sandbox-application/issues/13))
 
 **Your answer:**
 
@@ -319,7 +312,7 @@ _Are you listed on [landscape.cncf.io](https://landscape.cncf.io/)?_
 Are you listed on [LFX Insights](https://insights.linuxfoundation.org/)? Document status.
 <!-- field-guide:end -->
 
-- [ ] LFX Insights status documented <!-- checklist:lfx-insights --> (Issue: #ISSUE_LFX_INSIGHTS)
+- [ ] LFX Insights status documented <!-- checklist:lfx-insights --> (Issue: [#12](https://github.com/davidgs/sandbox-application/issues/12))
 
 **Your answer:**
 
@@ -331,7 +324,7 @@ _Are you listed on [LFX Insights](https://insights.linuxfoundation.org/)?_
 If accepted, you agree to donate project trademarks and accounts to the CNCF. Check the box when you accept.
 <!-- field-guide:end -->
 
-- [ ] If the project is accepted, I agree to donate all project trademarks and accounts to the CNCF <!-- checklist:trademark-agreement --> (Issue: #ISSUE_TRADEMARK_AGREEMENT)
+- [ ] If the project is accepted, I agree to donate all project trademarks and accounts to the CNCF <!-- checklist:trademark-agreement --> (Issue: [#11](https://github.com/davidgs/sandbox-application/issues/11))
 
 **Your answer:** (check the box above; add notes below if needed)
 
@@ -343,7 +336,7 @@ _Optional notes._
 If accepted, the project will follow the CNCF IP Policy. Check the box when you accept.
 <!-- field-guide:end -->
 
-- [ ] If the project is accepted, I agree the project will follow the CNCF IP Policy <!-- checklist:ip-policy-agreement --> (Issue: #ISSUE_IP_POLICY_AGREEMENT)
+- [ ] If the project is accepted, I agree the project will follow the CNCF IP Policy <!-- checklist:ip-policy-agreement --> (Issue: [#10](https://github.com/davidgs/sandbox-application/issues/10))
 
 **Your answer:** (check the box above; add notes below if needed)
 
@@ -359,7 +352,7 @@ Document the license and link to the `LICENSE` file in the project repo.
 Common auto-closure mistakes: BSL/GPL, or promising to relicense later.
 <!-- field-guide:end -->
 
-- [ ] Apache 2.0 license compliance documented <!-- checklist:apache-2-license --> (Issue: #ISSUE_APACHE_2_LICENSE)
+- [ ] Apache 2.0 license compliance documented <!-- checklist:apache-2-license --> (Issue: [#9](https://github.com/davidgs/sandbox-application/issues/9))
 
 **Your answer:**
 
@@ -371,7 +364,7 @@ _Project license (must be Apache 2.0) and link to LICENSE file._
 Document whether a CNCF license exception is needed. Write **N/A** if using Apache 2.0 with no exception.
 <!-- field-guide:end -->
 
-- [ ] License exception review completed <!-- checklist:license-exception --> (Issue: #ISSUE_LICENSE_EXCEPTION)
+- [ ] License exception review completed <!-- checklist:license-exception --> (Issue: [#8](https://github.com/davidgs/sandbox-application/issues/8))
 
 **Your answer:**
 
@@ -383,7 +376,7 @@ _Write N/A if using Apache 2.0 with no exception needed._
 Verify dependency licenses are on the [CNCF allowlist](https://github.com/cncf/foundation/blob/main/policies-guidance/allowed-third-party-license-policy.md) or have approved exceptions. Write **N/A** if fully compliant.
 <!-- field-guide:end -->
 
-- [ ] Dependency license compliance verified <!-- checklist:dependency-licenses --> (Issue: #ISSUE_DEPENDENCY_LICENSES)
+- [ ] Dependency license compliance verified <!-- checklist:dependency-licenses --> (Issue: [#7](https://github.com/davidgs/sandbox-application/issues/7))
 
 **Your answer:**
 
@@ -395,7 +388,7 @@ _Write N/A if all dependency licenses are on the CNCF allowlist or an approved e
 Optional: link TAG engagement, presentations, or a completed General Technical Review questionnaire. Leave blank if not applicable.
 <!-- field-guide:end -->
 
-- [ ] Domain Technical Review linked (if applicable) <!-- checklist:domain-technical-review --> (Issue: #ISSUE_DOMAIN_TECHNICAL_REVIEW)
+- [ ] Domain Technical Review linked (if applicable) <!-- checklist:domain-technical-review --> (Issue: [#6](https://github.com/davidgs/sandbox-application/issues/6))
 
 **Your answer:**
 
@@ -411,7 +404,7 @@ Document creation date and activity below.
 Common mistake: submitting a repo younger than six months.
 <!-- field-guide:end -->
 
-- [ ] Repository age and active development verified <!-- checklist:repo-age-and-activity --> (Issue: #ISSUE_REPO_AGE_AND_ACTIVITY)
+- [ ] Repository age and active development verified <!-- checklist:repo-age-and-activity --> (Issue: [#5](https://github.com/davidgs/sandbox-application/issues/5))
 
 **Your answer:**
 
@@ -423,7 +416,7 @@ _Repository creation date and evidence of active development (recent commits, re
 Document maintainer **employer** diversity. Different GitHub org memberships do **not** count as organization diversity.
 <!-- field-guide:end -->
 
-- [ ] Maintainer organization diversity documented <!-- checklist:maintainer-diversity --> (Issue: #ISSUE_MAINTAINER_DIVERSITY)
+- [ ] Maintainer organization diversity documented <!-- checklist:maintainer-diversity --> (Issue: [#4](https://github.com/davidgs/sandbox-application/issues/4))
 
 **Your answer:**
 
@@ -438,7 +431,7 @@ Add application contact emails in `application_contact_emails` and Contribution 
 > If this repo is public, avoid committing private emails. Use a private fork or fill contacts only when generating the submission locally.
 <!-- field-guide:end -->
 
-- [ ] Application contact emails and signatory information completed <!-- checklist:contact-information --> (Issue: #ISSUE_CONTACT_INFORMATION)
+- [ ] Application contact emails and signatory information completed <!-- checklist:contact-information --> (Issue: [#3](https://github.com/davidgs/sandbox-application/issues/3))
 
 **Your answer:**
 
@@ -454,7 +447,7 @@ _Contribution Agreement signatory details. Use the table format from the CNCF fo
 Add CNCF leadership contacts familiar with the project (TOC, TAGs, etc.) in `cncf_contacts` and any extra TOC context in `additional_information`.
 <!-- field-guide:end -->
 
-- [ ] CNCF contacts and additional information completed <!-- checklist:additional-information --> (Issue: #ISSUE_ADDITIONAL_INFORMATION)
+- [ ] CNCF contacts and additional information completed <!-- checklist:additional-information --> (Issue: [#2](https://github.com/davidgs/sandbox-application/issues/2))
 
 **Your answer:**
 
@@ -479,7 +472,7 @@ Or copy `CNCF-SUBMISSION.md` into a [new CNCF sandbox issue](https://github.com/
 `--create-issue` records the CNCF issue link in this section and in README automatically. Then open a PR with `Closes` and the final-review issue number.
 <!-- field-guide:end -->
 
-- [ ] Final review complete and application submitted to CNCF <!-- checklist:final-review --> (Issue: #ISSUE_FINAL_REVIEW)
+- [ ] Final review complete and application submitted to CNCF <!-- checklist:final-review --> (Issue: [#1](https://github.com/davidgs/sandbox-application/issues/1))
 
 **Your answer:**
 

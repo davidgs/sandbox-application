@@ -12,8 +12,8 @@ This repository helps you prepare a [CNCF Sandbox application](https://github.co
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **2 / 33** items complete (6%)  
-> `█░░░░░░░░░░░░░░░░░░░` 6%
+> **Application progress:** **3 / 33** items complete (9%)  
+> `██░░░░░░░░░░░░░░░░░░` 9%
 <!-- checklist-progress:end -->
 
 ## Application checklist
@@ -44,8 +44,6 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 ### [additional_repos](APPLICATION.md#additional_repos)
 
 ### [parent_separation_vote](APPLICATION.md#parent_separation_vote)
-
-- [ ] Parent project separation vote linked (or N/A documented) <!-- checklist:parent-separation-vote --> (Issue: [#29](https://github.com/davidgs/sandbox-application/issues/29))
 
 ### [website_url](APPLICATION.md#website_url)
 

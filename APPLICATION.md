@@ -96,11 +96,11 @@ https://github.com/davidgs/sandbox-application
 If separating from a parent project, link a **public issue** in the parent repo showing maintainer consensus to split. Otherwise document **N/A** in `parent_separation_vote`.
 <!-- field-guide:end -->
 
-- [ ] Parent project separation vote linked (or N/A documented) <!-- checklist:parent-separation-vote --> (Issue: [#29](https://github.com/davidgs/sandbox-application/issues/29))
+- [] Parent project separation vote linked (or N/A documented) <!-- checklist:parent-separation-vote --> (Issue: [#29](https://github.com/davidgs/sandbox-application/issues/29))
 
 **Your answer:**
 
-_If separating from a parent project, link to the public maintainer vote issue. Otherwise write N/A._
+N/A
 
 ## website_url
 

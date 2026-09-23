@@ -108,7 +108,7 @@ N/A
 Provide the project website URL, or the primary repo URL if there is no dedicated site.
 <!-- field-guide:end -->
 
-- [ ] Website URL documented <!-- checklist:website-url --> (PR: [#42](https://github.com/davidgs/sandbox-application/pull/42))
+- [x] Website URL documented <!-- checklist:website-url --> (PR: [#42](https://github.com/davidgs/sandbox-application/pull/42))
 
 https://github.com/davidgs/sandbox-application/
 

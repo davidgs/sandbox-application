@@ -12,8 +12,8 @@ This repository helps you prepare a [CNCF Sandbox application](https://github.co
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **3 / 33** items complete (9%)  
-> `██░░░░░░░░░░░░░░░░░░` 9%
+> **Application progress:** **4 / 33** items complete (12%)  
+> `██░░░░░░░░░░░░░░░░░░` 12%
 <!-- checklist-progress:end -->
 
 ## Application checklist
@@ -47,7 +47,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [website_url](APPLICATION.md#website_url)
 
-- [ ] Website URL documented <!-- checklist:website-url --> (PR: [#42](https://github.com/davidgs/sandbox-application/pull/42))
+- [x] Website URL documented <!-- checklist:website-url --> (PR: [#42](https://github.com/davidgs/sandbox-application/pull/42))
 
 ### [roadmap](APPLICATION.md#roadmap)
 

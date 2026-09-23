@@ -46,7 +46,7 @@ Draft the CNCF form fields in the sections below:
 Open one PR covering both fields; use `Closes` with the issue on the checklist line.
 <!-- field-guide:end -->
 
-- [ ] Project summary and description drafted <!-- checklist:project-summary --> (Issue: [#32](https://github.com/davidgs/sandbox-application/issues/32))
+- [ ] Project summary and description drafted <!-- checklist:project-summary --> (PR: [#36](https://github.com/davidgs/sandbox-application/pull/36))
 
 New Sandbox Application
 

@@ -46,13 +46,13 @@ Draft the CNCF form fields in the sections below:
 Open one PR covering both fields; use `Closes` with the issue on the checklist line.
 <!-- field-guide:end -->
 
-- [ ] Project summary and description drafted <!-- checklist:project-summary --> (Issue: [#32](https://github.com/davidgs/sandbox-application/issues/32))
+- [ ] Project summary and description drafted <!-- checklist:project-summary --> (PR: [#36](https://github.com/davidgs/sandbox-application/pull/36))
 
 New Sandbox Application
 
 ## project_description
 
-_100–300 word description of what the project does, why it's needed, and what gaps it fills in the cloud native ecosystem._
+This project is a new application to the CNCF Sandbox for this template repo. It's never going to be submitted, but I'm testing it out.
 
 ## not_reference_architecture
 

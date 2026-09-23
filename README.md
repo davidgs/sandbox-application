@@ -27,7 +27,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [project_summary](APPLICATION.md#project_summary)
 
-- [ ] Project summary and description drafted <!-- checklist:project-summary --> (Issue: [#32](https://github.com/davidgs/sandbox-application/issues/32))
+- [ ] Project summary and description drafted <!-- checklist:project-summary --> (PR: [#36](https://github.com/davidgs/sandbox-application/pull/36))
 
 ### [project_description](APPLICATION.md#project_description)
 

@@ -47,7 +47,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [website_url](APPLICATION.md#website_url)
 
-- [ ] Website URL documented <!-- checklist:website-url --> (Issue: [#28](https://github.com/davidgs/sandbox-application/issues/28))
+- [ ] Website URL documented <!-- checklist:website-url --> (PR: [#42](https://github.com/davidgs/sandbox-application/pull/42))
 
 ### [roadmap](APPLICATION.md#roadmap)
 

@@ -108,9 +108,9 @@ N/A
 Provide the project website URL, or the primary repo URL if there is no dedicated site.
 <!-- field-guide:end -->
 
-- [ ] Website URL documented <!-- checklist:website-url --> (Issue: [#28](https://github.com/davidgs/sandbox-application/issues/28))
+- [ ] Website URL documented <!-- checklist:website-url --> (PR: [#42](https://github.com/davidgs/sandbox-application/pull/42))
 
-https://github.com/davidgs/sandbox-application
+https://github.com/davidgs/sandbox-application/
 
 ## roadmap
 

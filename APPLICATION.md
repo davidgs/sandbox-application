@@ -122,11 +122,11 @@ Provide a publicly accessible roadmap URL in `roadmap` and optional direction in
 
 **Your answer:**
 
-_Roadmap URL._
+https://github.com/sandbox-application/roadmap
 
 ## roadmap_context
 
-_Optional details about roadmap direction._
+Not much to tell really. 
 
 ## contributing_guide
 

@@ -1,0 +1,61 @@
+name: Sync checklist on issue close
+
+on:
+  issues:
+    types: [closed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync-checklist:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'checklist-item')
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Find checklist slug from labels
+        id: slug
+        run: |
+          slug=$(echo '${{ toJson(github.event.issue.labels.*.name) }}' | jq -r '.[] | select(startswith("checklist:") and . != "checklist-item") | sub("checklist:"; "")')
+          if [ -z "$slug" ]; then
+            echo "No checklist slug label found; skipping."
+            echo "found=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "slug=$slug" >> "$GITHUB_OUTPUT"
+          echo "found=true" >> "$GITHUB_OUTPUT"
+          echo "Syncing checklist item: $slug (issue #${{ github.event.issue.number }})"
+
+      - name: Update APPLICATION.md checkbox
+        if: steps.slug.outputs.found == 'true'
+        id: update
+        env:
+          CHECKLIST_SLUG: ${{ steps.slug.outputs.slug }}
+        run: |
+          python3 scripts/checklist_tracking.py complete-checkbox --slug "${CHECKLIST_SLUG}"
+          python3 scripts/update_checklist_progress.py
+
+          if git diff --quiet APPLICATION.md README.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create pull request with checklist update
+        if: steps.update.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "docs: mark checklist item ${{ steps.slug.outputs.slug }} complete"
+          title: "docs: sync checklist — ${{ steps.slug.outputs.slug }}"
+          body: |
+            Automatically updates [APPLICATION.md](APPLICATION.md) and [README.md](README.md) after checklist issue #${{ github.event.issue.number }} was closed.
+
+            Closes checklist item: `${{ steps.slug.outputs.slug }}`
+          branch: bot/sync-checklist-${{ steps.slug.outputs.slug }}-${{ github.event.issue.number }}
+          delete-branch: true

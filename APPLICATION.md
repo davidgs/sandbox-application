@@ -118,15 +118,15 @@ https://github.com/davidgs/sandbox-application/
 Provide a publicly accessible roadmap URL in `roadmap` and optional direction in `roadmap_context`.
 <!-- field-guide:end -->
 
-- [ ] Roadmap and context documented <!-- checklist:roadmap --> (Issue: [#27](https://github.com/davidgs/sandbox-application/issues/27))
+- [ ] Roadmap and context documented <!-- checklist:roadmap --> (PR: [#44](https://github.com/davidgs/sandbox-application/pull/44))
 
 **Your answer:**
 
-_Roadmap URL._
+https://github.com/sandbox-application/roadmap
 
 ## roadmap_context
 
-_Optional details about roadmap direction._
+Not much to tell really. 
 
 ## contributing_guide
 

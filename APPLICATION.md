@@ -64,7 +64,7 @@ If this is a reference architecture, apply via [CNCF Reference Architectures](ht
 Check the box below when confirmed.
 <!-- field-guide:end -->
 
-- [x] This is a reusable open source project designed for broad adoption, not a reference architecture, reference implementation, or demonstration of patterns <!-- checklist:reusable-project --> (Issue: [#31](https://github.com/davidgs/sandbox-application/issues/31))
+- [x] This is a reusable open source project designed for broad adoption, not a reference architecture, reference implementation, or demonstration of patterns <!-- checklist:reusable-project --> (PR: [#38](https://github.com/davidgs/sandbox-application/pull/38))
 
 **Your answer:** (check the box above; add notes below if needed)
 

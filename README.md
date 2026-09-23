@@ -12,8 +12,8 @@ This repository helps you prepare a [CNCF Sandbox application](https://github.co
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **1 / 33** items complete (3%)  
-> `█░░░░░░░░░░░░░░░░░░░` 3%
+> **Application progress:** **2 / 33** items complete (6%)  
+> `█░░░░░░░░░░░░░░░░░░░` 6%
 <!-- checklist-progress:end -->
 
 ## Application checklist
@@ -33,7 +33,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [not_reference_architecture](APPLICATION.md#not_reference_architecture)
 
-- [ ] This is a reusable open source project designed for broad adoption, not a reference architecture, reference implementation, or demonstration of patterns <!-- checklist:reusable-project --> (Issue: [#31](https://github.com/davidgs/sandbox-application/issues/31))
+- [x] This is a reusable open source project designed for broad adoption, not a reference architecture, reference implementation, or demonstration of patterns <!-- checklist:reusable-project --> (PR: [#38](https://github.com/davidgs/sandbox-application/pull/38))
 
 ### [org_repo_url](APPLICATION.md#org_repo_url)
 

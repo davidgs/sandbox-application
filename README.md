@@ -12,8 +12,8 @@ This repository helps you prepare a [CNCF Sandbox application](https://github.co
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **2 / 33** items complete (6%)  
-> `█░░░░░░░░░░░░░░░░░░░` 6%
+> **Application progress:** **3 / 33** items complete (9%)  
+> `██░░░░░░░░░░░░░░░░░░` 9%
 <!-- checklist-progress:end -->
 
 ## Application checklist

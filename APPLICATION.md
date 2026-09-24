@@ -134,7 +134,7 @@ Not much to tell really.
 Link directly to the project's contributing guide (not a promise to add one later).
 <!-- field-guide:end -->
 
-- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (PR: [#48](https://github.com/davidgs/sandbox-application/pull/48))
+- [x] Contributing guide linked <!-- checklist:contributing-guide --> (PR: [#48](https://github.com/davidgs/sandbox-application/pull/48))
 
 **Your answer:**
 

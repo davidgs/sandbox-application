@@ -12,8 +12,8 @@ This repository helps you prepare a [CNCF Sandbox application](https://github.co
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **3 / 33** items complete (9%)  
-> `██░░░░░░░░░░░░░░░░░░` 9%
+> **Application progress:** **4 / 33** items complete (12%)  
+> `██░░░░░░░░░░░░░░░░░░` 12%
 <!-- checklist-progress:end -->
 
 ## Application checklist
@@ -57,7 +57,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [contributing_guide](APPLICATION.md#contributing_guide)
 
-- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (PR: [#48](https://github.com/davidgs/sandbox-application/pull/48))
+- [x] Contributing guide linked <!-- checklist:contributing-guide --> (PR: [#48](https://github.com/davidgs/sandbox-application/pull/48))
 
 ### [code_of_conduct](APPLICATION.md#code_of_conduct)
 

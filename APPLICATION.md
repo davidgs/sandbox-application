@@ -202,7 +202,7 @@ _Direct link to SECURITY.md or security policy._
 If the project is or includes a standard or specification, describe it. Otherwise write **N/A**.
 <!-- field-guide:end -->
 
-- [ ] Standard/specification details documented <!-- checklist:standard-or-spec --> (PR: [#50](https://github.com/davidgs/sandbox-application/pull/50))
+- [x] Standard/specification details documented <!-- checklist:standard-or-spec --> (PR: [#50](https://github.com/davidgs/sandbox-application/pull/50))
 
 **Your answer:**
 

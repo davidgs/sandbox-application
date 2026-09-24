@@ -52,8 +52,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow.
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **7 / 33** items complete (21%)  
-> `████░░░░░░░░░░░░░░░░` 21%
+> **Application progress:** **8 / 33** items complete (24%)  
+> `█████░░░░░░░░░░░░░░░` 24%
 <!-- checklist-progress:end -->
 
 ## Application checklist
@@ -121,7 +121,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [product_separation](APPLICATION.md#product_separation)
 
-- [ ] Business product/service separation documented <!-- checklist:product-separation --> (Issue: [#20](https://github.com/davidgs/sandbox-application/issues/20))
+- [x] Business product/service separation documented <!-- checklist:product-separation --> (PR: [#51](https://github.com/davidgs/sandbox-application/pull/51))
 
 ### [why_cncf](APPLICATION.md#why_cncf)
 

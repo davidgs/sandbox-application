@@ -150,8 +150,7 @@ Link directly to the project's Code of Conduct.
 
 **Your answer:**
 
-_Direct link to the Code of Conduct._
-
+https://github.com/davidgs/sandbox-application/blob/main/CODE_OF_CONDUCT.md
 ## adopters
 
 <!-- field-guide:start -->

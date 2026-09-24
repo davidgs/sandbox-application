@@ -218,7 +218,7 @@ Explain separation from related commercial products or services, or state: "This
 
 **Your answer:**
 
-_Explain separation from commercial products/services, or write: "This project is unrelated to any product or service."_
+There are no products or services associated with this project
 
 ## why_cncf
 

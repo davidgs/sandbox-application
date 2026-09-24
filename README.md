@@ -52,8 +52,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow.
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **5 / 33** items complete (15%)
-> `███░░░░░░░░░░░░░░░░░` 15%
+> **Application progress:** **6 / 33** items complete (18%)  
+> `████░░░░░░░░░░░░░░░░` 18%
 <!-- checklist-progress:end -->
 
 ## Application checklist
@@ -117,7 +117,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [standard_or_spec](APPLICATION.md#standard_or_spec)
 
-- [ ] Standard/specification details documented <!-- checklist:standard-or-spec --> (Issue: [#21](https://github.com/davidgs/sandbox-application/issues/21))
+- [ ] Standard/specification details documented <!-- checklist:standard-or-spec --> (PR: [#50](https://github.com/davidgs/sandbox-application/pull/50))
 
 ### [product_separation](APPLICATION.md#product_separation)
 

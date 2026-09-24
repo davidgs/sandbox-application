@@ -214,7 +214,7 @@ N/A
 Explain separation from related commercial products or services, or state: "This project is unrelated to any product or service."
 <!-- field-guide:end -->
 
-- [ ] Business product/service separation documented <!-- checklist:product-separation --> (Issue: [#20](https://github.com/davidgs/sandbox-application/issues/20))
+- [x] Business product/service separation documented <!-- checklist:product-separation --> (PR: [#51](https://github.com/davidgs/sandbox-application/pull/51))
 
 **Your answer:**
 

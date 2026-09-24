@@ -126,7 +126,7 @@ https://github.com/sandbox-application/roadmap
 
 ## roadmap_context
 
-Not much to tell really. 
+Not much to tell really.
 
 ## contributing_guide
 
@@ -134,11 +134,11 @@ Not much to tell really.
 Link directly to the project's contributing guide (not a promise to add one later).
 <!-- field-guide:end -->
 
-- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (Issue: [#26](https://github.com/davidgs/sandbox-application/issues/26))
+- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (PR: [#48](https://github.com/davidgs/sandbox-application/pull/48))
 
 **Your answer:**
 
-_Direct link to the contributing guide._
+https://github.com/davidgs/sandbox-application/blob/main/CONTRIBUTING.md
 
 ## code_of_conduct
 

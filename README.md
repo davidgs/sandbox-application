@@ -57,7 +57,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [contributing_guide](APPLICATION.md#contributing_guide)
 
-- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (Issue: [#26](https://github.com/davidgs/sandbox-application/issues/26))
+- [ ] Contributing guide linked <!-- checklist:contributing-guide --> (PR: [#48](https://github.com/davidgs/sandbox-application/pull/48))
 
 ### [code_of_conduct](APPLICATION.md#code_of_conduct)
 

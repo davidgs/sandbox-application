@@ -9,10 +9,50 @@ This repository helps you prepare a [CNCF Sandbox application](https://github.co
 
 **Edit [APPLICATION.md](APPLICATION.md) only** for checklist answers and form content. This README shows progress and mirrors checklist issue/PR links (updated by automation).
 
+## Quick start
+
+1. Click **Use this template** to create your own copy of this repository.
+2. Clone and bootstrap checklist issues:
+
+   ```bash
+   git clone git@github.com:YOUR_ORG/YOUR_REPO.git
+   cd YOUR_REPO
+   ./scripts/bootstrap-issues.sh
+   ```
+
+3. Commit bootstrap changes and push.
+4. Work in **[APPLICATION.md](APPLICATION.md)** only:
+   1. complete **Your answer** section
+   2. Open a PR with `Closes #N` (issue link is on the checklist line)
+   3. make sure you add the proper `field_id` to `Application fields updated` section:  e.g. `project_summary`, `maintainers_file`.
+5. When every item is complete:
+
+   ```bash
+   ./scripts/generate-submission.sh --validate
+   ./scripts/generate-submission.sh --create-issue
+   ```
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow.
+
+## How tracking works
+
+| Stage | Checklist line shows |
+| --- | --- |
+| After bootstrap | `(Issue: [#N](…))` — open GitHub issue |
+| After you open a PR with `Closes #N` | `(PR: [#N](…))` — in APPLICATION.md and this README |
+| After the PR merges | Checkbox `[x]`; issue closes |
+
+## References
+
+- [CNCF Sandbox repository](https://github.com/cncf/sandbox)
+- [CNCF Project Lifecycle & Process](https://github.com/cncf/toc/blob/main/process/README.md)
+- [CNCF Sandbox Application Form](https://github.com/cncf/sandbox/issues/new?assignees=&labels=New&projects=&template=application.yml&title=%5BSandbox%5D+%3CProject+Name%3E)
+
+
 ## Application progress
 
 <!-- checklist-progress:start -->
-> **Application progress:** **5 / 33** items complete (15%)  
+> **Application progress:** **5 / 33** items complete (15%)
 > `███░░░░░░░░░░░░░░░░░` 15%
 <!-- checklist-progress:end -->
 
@@ -27,7 +67,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [project_summary](APPLICATION.md#project_summary)
 
-- [ ] Project summary and description drafted <!-- checklist:project-summary --> (PR: [#36](https://github.com/davidgs/sandbox-application/pull/36))
+- [x] Project summary and description drafted <!-- checklist:project-summary --> (PR: [#36](https://github.com/davidgs/sandbox-application/pull/36))
 
 ### [project_description](APPLICATION.md#project_description)
 
@@ -164,41 +204,6 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 - [ ] Final review complete and application submitted to CNCF <!-- checklist:final-review --> (Issue: [#1](https://github.com/davidgs/sandbox-application/issues/1))
 <!-- application-dashboard:end -->
 
-## Quick start
-
-1. Click **Use this template** to create your own copy of this repository.
-2. Clone and bootstrap checklist issues:
-
-   ```bash
-   git clone git@github.com:YOUR_ORG/YOUR_REPO.git
-   cd YOUR_REPO
-   ./scripts/bootstrap-issues.sh
-   ```
-
-3. Commit bootstrap changes and push.
-4. Work in **[APPLICATION.md](APPLICATION.md)** only: complete **Your answer**, open a PR with `Closes #N` (issue link is on the checklist line).
-5. When every item is complete:
-
-   ```bash
-   ./scripts/generate-submission.sh --validate
-   ./scripts/generate-submission.sh --create-issue
-   ```
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow.
-
-## How tracking works
-
-| Stage | Checklist line shows |
-| --- | --- |
-| After bootstrap | `(Issue: [#N](…))` — open GitHub issue |
-| After you open a PR with `Closes #N` | `(PR: [#N](…))` — in APPLICATION.md and this README |
-| After the PR merges | Checkbox `[x]`; issue closes |
-
-## References
-
-- [CNCF Sandbox repository](https://github.com/cncf/sandbox)
-- [CNCF Project Lifecycle & Process](https://github.com/cncf/toc/blob/main/process/README.md)
-- [CNCF Sandbox Application Form](https://github.com/cncf/sandbox/issues/new?assignees=&labels=New&projects=&template=application.yml&title=%5BSandbox%5D+%3CProject+Name%3E)
 
 ## License
 

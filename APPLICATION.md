@@ -46,7 +46,7 @@ Draft the CNCF form fields in the sections below:
 Open one PR covering both fields; use `Closes` with the issue on the checklist line.
 <!-- field-guide:end -->
 
-- [ ] Project summary and description drafted <!-- checklist:project-summary --> (PR: [#36](https://github.com/davidgs/sandbox-application/pull/36))
+- [x] Project summary and description drafted <!-- checklist:project-summary --> (PR: [#36](https://github.com/davidgs/sandbox-application/pull/36))
 
 New Sandbox Application
 
@@ -206,7 +206,7 @@ If the project is or includes a standard or specification, describe it. Otherwis
 
 **Your answer:**
 
-_If this project is or includes a standard or specification, provide details. Otherwise write N/A._
+N/A
 
 ## product_separation
 

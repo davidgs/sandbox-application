@@ -146,12 +146,11 @@ https://github.com/davidgs/sandbox-application/blob/main/CONTRIBUTING.md
 Link directly to the project's Code of Conduct.
 <!-- field-guide:end -->
 
-- [ ] Code of Conduct linked <!-- checklist:code-of-conduct --> (Issue: [#25](https://github.com/davidgs/sandbox-application/issues/25))
+- [ ] Code of Conduct linked <!-- checklist:code-of-conduct --> (PR: [#49](https://github.com/davidgs/sandbox-application/pull/49))
 
 **Your answer:**
 
-_Direct link to the Code of Conduct._
-
+https://github.com/davidgs/sandbox-application/blob/main/CODE_OF_CONDUCT.md
 ## adopters
 
 <!-- field-guide:start -->

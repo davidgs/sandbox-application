@@ -61,7 +61,7 @@ Each row links to the matching section in [APPLICATION.md](APPLICATION.md). `(Is
 
 ### [code_of_conduct](APPLICATION.md#code_of_conduct)
 
-- [ ] Code of Conduct linked <!-- checklist:code-of-conduct --> (Issue: [#25](https://github.com/davidgs/sandbox-application/issues/25))
+- [ ] Code of Conduct linked <!-- checklist:code-of-conduct --> (PR: [#49](https://github.com/davidgs/sandbox-application/pull/49))
 
 ### [adopters](APPLICATION.md#adopters)
 
